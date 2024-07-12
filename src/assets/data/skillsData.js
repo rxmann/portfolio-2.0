@@ -2,16 +2,17 @@ export const frontend = [
     { id: 1, title: "ReactJS", image: "https://img.icons8.com/color/144/react-native.png" },
     { id: 2, title: "NextJS", image: "https://asset.brandfetch.io/id2alue-rx/idGu8IJBd3.svg?updated=1714556221292" },
     { id: 3, title: "ReduxJS", image: "https://img.icons8.com/color/144/redux.png" },
-    { id: 4, title: "MUI", image: "https://img.icons8.com/color/144/material-ui.png" },
+    // { id: 4, title: "MUI", image: "https://img.icons8.com/color/144/material-ui.png" },
     { id: 5, title: "Figma", image: "https://img.icons8.com/color/144/figma--v1.png" }
 ];
 
 
 export const backend = [
     { id: 2, title: "Spring Boot", image: "https://img.icons8.com/color/144/spring-logo.png" },
+    { id: 6, title: "PostgreSQL", image: "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" },
     { id: 3, title: "MySQL", image: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" },
     { id: 4, title: "ExpressJS", image: "https://img.icons8.com/ios/150/ffffff/express-js.png" },
-    { id: 5, title: "MongoDB", image: "https://img.icons8.com/color/144/mongodb.png" }
+    { id: 5, title: "MongoDB", image: "https://img.icons8.com/color/144/mongodb.png" },
 ];
 
 
