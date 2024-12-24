@@ -9,4 +9,11 @@ export const careerList = [
       icon: (<DeveloperModeIcon />),
       themeColor: "success"
     },
+        {
+      role: "Associate Software Engineer",
+      organization: "@Prithak Creation",
+      startDate: "November 04, 2024",
+      icon: (<DeveloperModeIcon />),
+      themeColor: "primary"
+    }
   ]
