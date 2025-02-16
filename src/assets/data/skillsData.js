@@ -10,9 +10,10 @@ export const frontend = [
 export const backend = [
     { id: 2, title: "Spring Boot", image: "https://img.icons8.com/color/144/spring-logo.png" },
     { id: 6, title: "PostgreSQL", image: "https://img.icons8.com/?size=100&id=38561&format=png&color=000000" },
+    { id: 7, title: "Docker", image: "https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000" },
     { id: 3, title: "MySQL", image: "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" },
     { id: 4, title: "ExpressJS", image: "https://img.icons8.com/ios/150/ffffff/express-js.png" },
-    { id: 5, title: "MongoDB", image: "https://img.icons8.com/color/144/mongodb.png" },
+    { id: 5, title: "MongoDB", image: "https://img.icons8.com/?size=100&id=74402&format=png&color=000000"},
 ];
 
 
